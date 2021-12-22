@@ -1,3 +1,3 @@
-# Hi There
+# A Welcome Speech For You
 
-Always put on your mind that anything comes up must come down, enjoy the repositories!
+Keep this in mind that anything goes up must come down, enjoy the repositories!
