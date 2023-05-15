@@ -1,3 +1,3 @@
 # Hi there!
 
-Hope your day is going well.
+Enjoy my Github repositories!
